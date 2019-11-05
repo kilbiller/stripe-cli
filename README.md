@@ -29,7 +29,7 @@ brew install stripe/stripe-cli/stripe
 
 ### Linux
 
-Please refer to the [installation wiki](wiki/installation#linux) for detailed Linux instructions.
+Please refer to the [installation wiki](https://github.com/stripe/stripe-cli/wiki/installation#linux) for detailed Linux instructions.
 
 ### Windows
 
